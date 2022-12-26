@@ -1,6 +1,7 @@
 # path-finding-algorithm-visualizer
 
-
+~ must have pygame installed to use
+<br>
 ~ click on the grid to place the starting block and then click elsewhere to add the end block
 <br>
 ~ click again to place barriers 
