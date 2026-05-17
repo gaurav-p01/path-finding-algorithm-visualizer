@@ -16,4 +16,3 @@
 <br>
 ~ might add some more algorithms and some gui to change grid dimensions and theme later. you can change them in the code for now.
 <br><br>
-feedback is appreciated :)
